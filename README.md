@@ -2,6 +2,8 @@
 
 ### Web Application based on the Rick and Morty Universe
 
+[![Preview](https://cdn.loom.com/sessions/thumbnails/19b1c7f1354249098ce5ff2a97892ada-d14e252abe768612-full-play.gif)](https://www.loom.com/share/19b1c7f1354249098ce5ff2a97892ada?sid=69f0fbe8-d189-4ee0-9f4e-227b2a18b6f2)
+
 (можно посмотреть сайт по ссылке https://ricknmortyuniverse.netlify.app)
 
 ==========================
