@@ -5,7 +5,7 @@
 <template >
   <header>
     <nav>
-      <router-link :to="{ name: 'home' }" >Home</router-link>
+      <router-link :to="{ name: 'home' }" >Characters</router-link>
       <router-link :to="{ name: 'episodes' }" >Episodes</router-link>
       <router-link :to="{ name: 'locations' }" >Locations</router-link>
     </nav>
