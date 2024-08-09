@@ -1,11 +1,12 @@
 # ricknmorty
 
-Web Application based on the Rick and Morty Universe
+### Web Application based on the Rick and Morty Universe
 
 (можно посмотреть сайт по ссылке https://ricknmortyuniverse.netlify.app)
 
 ==========================
-Запуск приложения локально:
+
+### Запуск приложения локально:
 
 1. Перед началом убедитесь, что у вас установлены Node.js и npm через комманды
 
@@ -14,7 +15,9 @@ Web Application based on the Rick and Morty Universe
    npm -v.
 ```
 
-Вы можете скачать их с официального сайта Node.js. 2. Клонируйте репозиторий проекта из GitHub
+Вы можете скачать их с официального сайта Node.js.
+
+2. Клонируйте репозиторий проекта из GitHub
 
 ```bash
    git clone https://github.com/daisymod/ricknmorty.git
@@ -39,7 +42,8 @@ Web Application based on the Rick and Morty Universe
 ```
 
 ==========================
-Запуск в Докере
+
+### Запуск в Докере
 
 1. Клонируйте репозиторий проекта из GitHub
 
@@ -62,13 +66,14 @@ Web Application based on the Rick and Morty Universe
 4. Откройте http://localhost/ в браузере.
 
 ==========================
-Чтобы создать image
+
+- Чтобы создать image
 
 ```bash
    docker build -t vuejs-ricknmorty/dockerize-vuejs-app .
 ```
 
-Чтобы запустить app в Docker container
+- Чтобы запустить app в Docker container
 
 ```bash
    docker run -it -p 8080:8080 --rm --name dockerize-vuejs-app-1 vuejs-ricknmorty/dockerize-vuejs-app
